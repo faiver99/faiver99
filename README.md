@@ -4,13 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=feryaeljustice&label=Profile%20views&color=0e75b6&style=flat" alt="feryaeljustice_profileviews" /> </p>
 
-- I'm a professional Android / Web developer for several years, including ethical hacking & linux knowledge.
-- 📫 How to reach me: **nano9gs@hotmail.es** or **fgonzalezserrano10@gmail.com**
-- [General Portfolio](https://feryael-justice.jimdosite.com/portfolio/)
-
 ## Contact me:
 
-- [![Email](https://img.shields.io/badge/email-3DDC84?style=for-the-badge&logo=email&logoColor=white&labelColor=101010)](mailto:nano9gs@hotmail.es)
+- [![Email](https://img.shields.io/badge/email-3DDC84?style=for-the-badge&logo=email&logoColor=white&labelColor=101010)](fafevalo99@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/linkedin-3DDC84?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/faiver-felipe-vargas-lozano-621364230/)
 
 
