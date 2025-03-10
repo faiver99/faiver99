@@ -85,7 +85,7 @@ I am a software engineering student, currently halfway through my degree. I am e
 <div align="center">
  <b style = {font-weight: 600}>Visitors Count</b>
 
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{kaustav202}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{faiver99}/count.svg" /></p> 
 <br>
 </div>
 
