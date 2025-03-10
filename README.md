@@ -46,15 +46,7 @@
 [![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=101010)](#)
 [![Vue](https://img.shields.io/badge/vue%20-%2320232a.svg?&style=for-the-badge&logo=vue&logoColor=%2361DAFB&labelColor=101010)](#)
 [![Laravel](https://img.shields.io/badge/laravel%20-%2320232a.svg?&style=for-the-badge&logo=laravel&logoColor=%2361DAFB&labelColor=101010)](#)
-[![Ionic](https://img.shields.io/badge/ionic%20-%23404d59.svg?&style=for-the-badge&labelColor=101010)](#)
 [![Express.js](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge&labelColor=101010)](#)
-[![Expo](https://img.shields.io/badge/expo%20-%2320232a.svg?&style=for-the-badge&logo=expo&logoColor=%2361DAFB&labelColor=101010)](#)
-
-#### Multimedia and Design
-
-[![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white&labelColor=101010)](#)
-[![OBS Studio](https://img.shields.io/badge/obs%20studio%20-%2331A8FF.svg?&style=for-the-badge&logo=obs%20studio&logoColor=white&labelColor=101010)](#)
-[![Sony Vegas](https://img.shields.io/badge/sony%20vegas%20-%2331A8FF.svg?&style=for-the-badge&logo=sony%20vegas&logoColor=white&labelColor=101010)](#)
 
 #### Version Control
 
