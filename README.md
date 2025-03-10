@@ -11,9 +11,6 @@
 
 #### Programming Languages
 
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)](#)
-[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)](#)
-[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)](#)
 </br>
 [![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)](#)
@@ -29,7 +26,6 @@
 </br>
 [![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)](#)
 [![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)](#)
-[![PHP](https://img.shields.io/badge/php%20-%231572B6.svg?&style=for-the-badge&logo=php&logoColor=white&labelColor=101010)](#)
 
 #### Frameworks
 
@@ -53,12 +49,10 @@
 
 ## Find all my links at:
 
-[![Youtube](https://img.shields.io/badge/youtube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCTyU8XX48ICGslCl_6q9PwA)
-[![Twitch](https://img.shields.io/badge/twitch%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/feryaeljustice)
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/FeryaelJustice)
+[![Twitch](https://img.shields.io/badge/twitch%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/faiver99)
 [![Instagram](https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/feryaeljustice)
-[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/feryael99)
-[![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feryael-justice)
+[![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faiver-vargas)
 
 
 
