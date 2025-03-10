@@ -96,9 +96,13 @@ I am a software engineering student, currently halfway through my degree. I am e
 
 ## Check out my Social Media
 
-<a href= "https://www.instagram.com/valenwerle/?hl=es">
+<a href= "https://www.instagram.com/faiver_vargas/?hl=es">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
+<a href= "https://www.linkedin.com/faiver_vargas/?hl=es">
+    <img src="[https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faiver-vargas)">
+</a>
+<!--
 <a href="https://www.tiktok.com/@vapixel_" >
   <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="Tiktok">
 </a>
@@ -108,6 +112,8 @@ I am a software engineering student, currently halfway through my degree. I am e
 <a href="https://www.youtube.com/@ValenWerle">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube">
 </a>
+-->
+
 
 <h2>Github stats:</h2> 
 
