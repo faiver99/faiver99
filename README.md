@@ -79,7 +79,7 @@ I am a software engineering student, currently halfway through my degree. I am e
 <h2>Github stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=faiver99&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/faiver99)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=valentinawerle&theme=material-palenight)](https://github.com/valentinawerle)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=faiver99&theme=material-palenight)](https://github.com/faiver99)
 
 
 
