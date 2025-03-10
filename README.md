@@ -1,9 +1,6 @@
 <h1 align="center">⭐Hello, I am faiver⭐</h1>
 <h2 align="center">Web Developer from Colombia</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=feryaeljustice&label=Profile%20views&color=0e75b6&style=flat" alt="feryaeljustice_profileviews" /> </p>
-
 ## Contact me:
 
 - [![Email](https://img.shields.io/badge/email-3DDC84?style=for-the-badge&logo=email&logoColor=white&labelColor=101010)](fafevalo99@gmail.com)
