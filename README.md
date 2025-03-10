@@ -51,7 +51,11 @@
 [![Instagram](https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/feryaeljustice)
 [![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faiver-vargas)
 
+<h2>Github stats:</h2> 
 
+[![](https://github-readme-stats.vercel.app/api?username=faiver99&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/faiver99)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=faiver99&theme=material-palenight)](https://github.com/faiver99)
+</div>
 
 
 
