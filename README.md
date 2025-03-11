@@ -38,7 +38,6 @@
  [![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)](#)
  [![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=101010)](#)
  [![Vue](https://img.shields.io/badge/vue%20-%2320232a.svg?&style=for-the-badge&logo=vue&logoColor=%2361DAFB&labelColor=101010)](#)
- [![Laravel](https://img.shields.io/badge/laravel%20-%2320232a.svg?&style=for-the-badge&logo=laravel&logoColor=%2361DAFB&labelColor=101010)](#)
  [![Express.js](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge&labelColor=101010)](#)
  
  #### Version Control
@@ -50,8 +49,7 @@
  <span>
     <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
-   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
- </span>
+  </span>
  
  ## Find all my links at:
  
