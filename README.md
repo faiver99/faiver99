@@ -10,8 +10,7 @@
    - Angular
  - 👯 I’m looking forward to collaborate on open source projects.
  - ✔ Ask me about anything, I am happy to help<br>
- - Outside tech, 💜I love streaming on twitch, 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
- - 👾 Additionally, I create content about programming/technology on my social media, so feel free to check out my profile!
+ - Outside tech, 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
  - 📫 Reach out to me at: <a href="fafevalo99@gmail.com">fafevalo99@gmail.com</a>
  
  
